@@ -13,9 +13,13 @@ public class Simply {
 
 		System.out.println("ram code added");
 		
+
+		System.out.println("Hi am here");
+
 		System.out.println("Hi Abi here");
 		
 		
+
 
 	}
 	
