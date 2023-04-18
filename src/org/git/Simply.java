@@ -12,6 +12,8 @@ public class Simply {
 		System.out.println("Sam code added");
 
 		System.out.println("ram code added");
+		
+		System.out.println("Hi am here");
 
 	}
 	
